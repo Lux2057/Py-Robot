@@ -1,0 +1,4 @@
+Adafruit_Blinka==8.50.0
+adafruit_circuitpython_pca9685==3.4.16
+pipreqs==0.5.0
+RPi.GPIO==0.7.1
